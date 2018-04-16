@@ -1,0 +1,2 @@
+lon lat depth  str dip slip  st dip slip mant exp plon plat
+-71.777 8.229 5.0  68.0  85.0 -168.7 337.0  78.7   -5.1 5.5  0 -71.577 8.429

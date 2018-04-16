@@ -1,0 +1,66 @@
+\documentclass[10pt]{article}
+\usepackage[latin1,latin2,latin5]{inputenc}
+\usepackage{enumerate}
+\usepackage{booktabs}
+\usepackage{geometry}
+\usepackage{epsfig}
+\usepackage{fancyhdr}
+\usepackage{multicol}
+
+
+%\geometry{margin=2cm}
+\geometry{top=1.8cm,left=3cm,right=3cm,bottom=4.0cm}
+\pagestyle{fancyplain}
+%cnt2100pre
+\fancyhead{\includegraphics[width=\textwidth]{cintillo.eps}}
+\fancyfoot[L]{}	% Empty
+\fancyfoot[C]{ \hspace{10pt} \includegraphics[width=.16\textwidth]{flogo.eps} \\ \hspace{10pt} \textsf{www.funvisis.gob.ve - @funvisis \\ \hspace{10pt} \textbf{0800 - TEMBLOR(8362567)} \\\hspace{10pt} \tiny{Copyleft 2015 - Venezuela}}}										% Empty
+\fancyfoot[R]{}									% Pagenumbering
+\newcommand{\horrule}[1]{\rule{\linewidth}{#1}}
+\title{
+		\vspace{-1.5cm} 	
+		\usefont{OT1}{bch}{b}{n}
+		\normalfont\textsf{\normalsize{SERVICIO SISMOLÓGICO NACIONAL}} \\ [-20pt]
+		\horrule{0.5pt} \\[0.4cm]
+		\textsf{\huge {Reporte Mecanismo Focal}} \\
+		\horrule{2pt} \\[-0.5cm]
+}
+\author{\normalsize{F U N V I S I S}}
+\date{}
+\begin{document}
+\maketitle
+\vspace{-1.0cm}
+
+\input{tabla1}
+\vspace{-0.3cm}
+\input{tabla2}
+
+
+%\horrule{0.5pt}
+\vspace{-0.5cm}
+\begin{figure}[h]
+  	\centerline{\epsfig{file=reporte.eps,width=16cm}}
+   	\end{figure}
+
+\vspace{-3.5cm}
+
+\textsf{\bf{Parámetros de la solución:}}\\
+\begin{minipage}[t]{0.40\textwidth}
+%\textsf{\bf{Parámetros de la solución:}}
+\vspace{0.3cm}
+\textsf{
+\input{tabla3}
+}
+\end{minipage}
+
+\vspace{0.1cm}
+\begin{center}
+\begin{small}
+\textsf{\bf{Reporte de mecanismo focal obtenido con la información de polaridad de la onda P\\en cada estación sismológica involucrada en el análisis}}
+\end{small}
+\horrule{0.5pt} \\[0.4cm]
+
+\end{center}
+
+
+\end{document} 

@@ -1,0 +1,65 @@
+09.56:-69.20:Acarigua
+09.45:-64.48:Anaco
+09.96:-71.11:Bachaquero
+10.14:-64.68:Barcelona
+08.63:-70.21:Barinas
+10.07:-69.32:Barquisimeto
+10.13:-65.42:Boca de Uchire
+10.39:-71.44:Cabimas
+09.83:-63.60:Caicara de Maturin
+10.50:-66.92:Caracas
+10.18:-63.50:Caripe
+10.18:-70.08:Carora
+10.66:-63.25:Carupano
+08.15:-63.53:Ciudad Bolivar
+08.36:-62.65:Ciudad Guayana
+10.81:-69.54:Churuguara
+09.94:-65.16:Clarines
+10.25:-63.92:Cumanacoa
+10.93:-68.27:Chichiriviche
+08.15:-63.53:Ciudad Bolivar
+10.20:-71.31:Ciudad Ojeda
+11.41:-69.67:Coro
+10.46:-64.18:Cumana
+08.89:-64.25:El Tigre
+09.79:-69.79:El Tocuyo
+08.62:-71.64:El Vigia
+09.05:-69.75:Guanare
+10.48:-66.62:Guarenas
+10.66:-62.29:Guiria
+10.49:-66.10:Higuerote
+11.03:-63.86:La Asuncion
+10.14:-71.25:Lagunillas
+10.61:-66.93:La Guaira
+10.92:-65.33:La Isla la Tortuga
+10.78:-64.00:Isla de Coche
+11.83:-64.58:Isla la Blanquilla
+11.38:-63.10:Isla los Testigos
+11.83:-66.75:Isla los Roques
+12.42:-70.92:Islas los Monjes
+10.62:-66.57:Los Caracas
+10.35:-67.04:Los Teques
+10.06:-72.54:Machiques
+10.63:-71.61:Maracaibo
+10.25:-67.60:Maracay
+09.75:-63.18:Maturin
+08.60:-71.13:Merida
+10.49:-68.02:Moron
+10.96:-63.85:Porlamar
+05.67:-67.62:Puerto Ayacucho
+10.47:-68.01:Puerto Cabello
+10.22:-64.62:Puerto La Cruz
+08.31:-62.70:Puerto Ordaz
+11.69:-70.20:Punto Fijo
+10.32:-65.97:Rio Chico
+09.66:-68.59:San Carlos
+07.77:-72.23:San Cristobal
+10.34:-68.74:San Felipe
+07.90:-67.47:San Fernando De Apure
+09.91:-67.36:San Juan De Los Morros
+08.33:-71.74:Tovar
+09.37:-70.43:Trujillo
+09.08:-62.05:Tucupita
+10.18:-68.00:Valencia
+09.31:-70.61:Valera
+09.21:-66.00:Valle de la Pascua
